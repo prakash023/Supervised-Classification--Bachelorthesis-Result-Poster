@@ -1,7 +1,7 @@
 # Sentinel-2 Land Cover Classification using Random Forest
 
 ## Overview
-This project was developed as part of my Bachelor thesis in Geoinformation.  
+This project was developed as part of my Bachelor thesis Poster presentation.
 The objective was to classify Sentinel-2 satellite imagery using a supervised machine learning approach based on the Random Forest algorithm.
 
 Five land cover classes were generated and validated using a confusion matrix and accuracy assessment.
