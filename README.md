@@ -65,7 +65,8 @@ The comparison with CORINE Land Cover resulted in lower agreement (~55%) due to 
 - 
 - CORINE Land Cover dataset
 - Sentinel-2 imagery
--
+
+##Result image:
 - <img width="212" height="246" alt="class_" src="https://github.com/user-attachments/assets/26634e71-033d-490b-8e3c-f12406e1ef82" />
 
 
